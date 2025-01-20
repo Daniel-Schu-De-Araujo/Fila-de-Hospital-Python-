@@ -64,6 +64,7 @@ pacientes = [
 
 ## **Formato de Saída**
 
+```
 A exibição inicial da fila de atendimento deve ser:
 
 ```
